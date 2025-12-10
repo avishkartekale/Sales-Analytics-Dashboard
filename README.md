@@ -97,7 +97,7 @@ Highlighted revenue drivers & customer segments
 
 🚀How to Run This Project
 1. Clone the repository
-git clone [https://github.com/yourusername/project-name.git](https://github.com/avishkartekale/Sales-Analytics-Dashboard/tree/main)
+git clone (https://github.com/avishkartekale/Sales-Analytics-Dashboard/tree/main)
 cd project-name
 
 2. Install Python dependencies
